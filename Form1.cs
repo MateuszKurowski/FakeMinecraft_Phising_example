@@ -1,17 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
 //Dodajemy biblioteki
 using System.IO;    // Osbługa plików tekstowych
 using System.Net;   // Obsługa połączenia do serwera FTP
+using System.Text;
 using System.Threading;
+using System.Windows.Forms;
 
 namespace FakeMinecraft
 {
